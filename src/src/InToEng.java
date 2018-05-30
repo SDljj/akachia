@@ -40,6 +40,7 @@ public class InToEng {
     		e = f;
     	}else if(n==1000) {
     		e = "thousand";
+
     	}
         return e;
     }
